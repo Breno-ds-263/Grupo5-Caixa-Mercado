@@ -1,0 +1,1 @@
+nome_produto=input("Digite o nome do produto: ")

@@ -1,1 +1,0 @@
-quantidade = int(input("Digite a quantidade desejada do produto: "))

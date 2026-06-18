@@ -1,0 +1,1 @@
+preco_produto=input("Digite o preço do produto: ");4
